@@ -1,0 +1,19 @@
+* { padding: 0; margin: 0; font-family: sans-serif;  font-size: 18px;  color: /*#F9F9F9*/black;  -webkit-box-sizing: border-box;    -moz-box-sizing: border-box; box-sizing: border-box;}
+h2 { text-align: center; font-size: 30px;  padding-top: auto; /*background: rgba(0, 0, 0, 1)*/ }
+h3 { text-align: center; font-size: 20px;  padding-top: auto; /*background: rgba(0, 0, 0, 1) */ }
+small{ text-align: center; font-size: 10px;  padding-top: auto; /*background: rgba(0, 0, 0, 1)*/ }
+body { padding-top: 20px; background: url("img.png"); }
+div { margin: 0 0 20px 0;}
+label { float: left; display: block; width: auto; text-align: right; padding-right: 20px; }
+label.login {/*background: rgba(249, 248, 204, 1)*/}
+input, textarea, select { width: 400px; border: solid 3px #555; padding: 5px; background: #F9F9F9; color: #555; }
+input[type=submit], a.backButton { background: #555; border: solid 5px #333; color: #F9F9F9; padding: 5px;  }
+img { height: 150px; float: left; }
+
+#Body { width: 700px; margin: 0 auto; }
+#Header { text-align: center; padding: 0 0 20px 0; width: 500px; overflow: hidden; margin: 0 auto;   }
+.multiple input { width: auto; margin: 0 15px 0 0px; }
+.multiple { font-size: 14px; text-align: center;}
+
+.validation label { color: #CC0000;}
+.validation input { border-color: #CC0000; }

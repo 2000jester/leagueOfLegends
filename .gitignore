@@ -1,0 +1,14 @@
+.idea
+#/cache
+*
+!*.php
+!*.html
+!*.css
+!*.png
+!*.jpeg
+!*.jpg
+!*.txt
+!*.sql
+!*.md
+!*.gitignore
+!*/
